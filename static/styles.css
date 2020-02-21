@@ -1,0 +1,172 @@
+
+path {
+    stroke: #fff;
+    fill-rule: evenodd;
+  }
+  
+text {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+  }
+
+.rectangle {
+    fill: steelblue;
+  }
+.rectangle:hover {
+    fill: orange;
+  }
+.axis {
+    font: 10px sans-serif;
+  }
+  
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+#Usamap {
+  height: 400px;
+  width: 1000px;
+  
+}
+
+.popup-title { 
+  color: red;
+  font-size: 15px;
+}
+.total {
+  color: blue;
+  font-size: 12px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+
+
+/* .jumbotron {
+  background-image:url('../..Ammunition.jpg');
+  background-repeat:no-repeat;
+  background-position: right top;
+  background-color:green;
+
+} */
+h1 { 
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color:white;
+}
+h5 {
+  font-style: italic;
+  color:darkred;
+  font-size: 15px;
+}
+.middle {
+  text-align: center;
+  font-size:2em;
+  color:black;
+}
+img {
+  display: inline-block;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  height: auto;
+  overflow-y: scroll;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.header-image {
+  height: 100px;
+  width: 125px;
+  padding:6px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.container-fluid {
+  margin-top:-50px;
+  margin-bottom: -50px;
+  background-color: #3B5998;
+  
+}
+#links {
+  text-align: right;
+}
+h4 {
+  color:darkred;
+}
+
+body {
+  margin: 5%;
+  background-color:white;
+
+}
+.jumbotron {
+  color: blue;
+}
+
+.head{
+  background-color:#3B5998;
+  padding:20px;
+  color:white;
+} 
+
+#box{
+  background-color: #3B5998;
+}

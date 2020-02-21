@@ -1,0 +1,259 @@
+{
+    "name": "Items",
+    "children": [
+     {
+      "name": "Denver",
+      "children": [
+       {
+        "name": "Dangerous",
+        "children": [
+            {"name": "Ammunition", "size": 114},
+            
+            {
+                "name": "Firearms",
+                "children":[
+                    {"name": "Firearm Parts", "size": 331},
+                    {"name": "Firearm Replicas", "size": 6}
+                ]
+            },
+            {"name": "Explosive Device", "size": 1}
+        ]    
+        },
+    
+     
+      
+        {"name": "Cutting Items", "size": 97},
+        {"name": "Bio", "size": 0},
+        {
+            "name": "Interesting",
+            "children": [
+                {"name": "Flares", "size": 2},
+                {"name": "Hand Granades", "size": 11},
+                {"name": "Bludgeoning", "size": 18},
+                {"name": "Fireworks", "size": 8}
+            ]
+        },
+        {
+            "name": "Self Defense",
+            "children": [
+                {"name": "Pepper Spray", "size": 4},
+                {"name": "Martial Arts", "size": 211},
+                {"name": "Shocking Device", "size": 49}
+            ]
+        },
+        {
+            "name": "Chemical",
+            "children": [
+                {"name": "Fuel", "size": 5},
+                {"name": "Paint", "size": 1}
+            ]
+        }
+    ]  
+    },    
+
+
+        
+    {
+        "name": "Phoenix",
+        "children": [
+         {
+          "name": "Dangerous",
+          "children": [
+              {"name": "Ammunition", "size": 65},
+              
+              {
+                  "name": "Firearms",
+                  "children":[
+                      {"name": "Firearm Parts", "size": 267},
+                      {"name": "Firearm Replicas", "size": 12}
+                  ]
+              },
+              {"name": "Explosive Device", "size": 1}
+          ]    
+          },
+      
+       
+        
+          {"name": "Cutting Items", "size": 82},
+          {"name": "Bio", "size": 0},
+          {
+              "name": "Interesting",
+              "children": [
+                  {"name": "Flares", "size": 0},
+                  {"name": "Hand Granades", "size": 3},
+                  {"name": "Bludgeoning", "size": 75},
+                  {"name": "Fireworks", "size": 7}
+              ]
+          },
+          {
+              "name": "Self Defense",
+              "children": [
+                  {"name": "Pepper Spray", "size": 201},
+                  {"name": "Martial Arts", "size": 53},
+                  {"name": "Shocking Device", "size": 37}
+              ]
+          },
+          {
+              "name": "Chemical",
+              "children": [
+                  {"name": "Fuel", "size": 0},
+                  {"name": "Paint", "size": 2}
+              ]
+          }
+      ]  
+      },    
+  
+      {
+        "name": "Las Vegas",
+        "children": [
+         {
+          "name": "Dangerous",
+          "children": [
+              {"name": "Ammunition", "size": 28},
+              
+              {
+                  "name": "Firearms",
+                  "children":[
+                      {"name": "Firearm Parts", "size": 362},
+                      {"name": "Firearm Replicas", "size": 43}
+                  ]
+              },
+              {"name": "Explosive Device", "size": 2}
+          ]    
+          },
+      
+       
+        
+          {"name": "Cutting Items", "size": 38},
+          {"name": "Bio", "size": 0},
+          {
+              "name": "Interesting",
+              "children": [
+                  {"name": "Flares", "size": 0},
+                  {"name": "Hand Granades", "size": 15},
+                  {"name": "Bludgeoning", "size": 54},
+                  {"name": "Fireworks", "size": 5}
+              ]
+          },
+          {
+              "name": "Self Defense",
+              "children": [
+                  {"name": "Pepper Spray", "size": 0},
+                  {"name": "Martial Arts", "size": 77},
+                  {"name": "Shocking Device", "size": 62}
+              ]
+          },
+          {
+              "name": "Chemical",
+              "children": [
+                  {"name": "Fuel", "size": 0},
+                  {"name": "Paint", "size": 2}
+              ]
+          }
+      ]  
+      },    
+  
+      {
+        "name": "Salt Lake",
+        "children": [
+         {
+          "name": "Dangerous",
+          "children": [
+              {"name": "Ammunition", "size": 74},
+              
+              {
+                  "name": "Firearms",
+                  "children":[
+                      {"name": "Firearm Parts", "size": 187},
+                      {"name": "Firearm Replicas", "size": 2}
+                  ]
+              },
+              {"name": "Explosive Device", "size": 0}
+          ]    
+          },
+      
+       
+        
+          {"name": "Cutting Items", "size": 52},
+          {"name": "Bio", "size": 0},
+          {
+              "name": "Interesting",
+              "children": [
+                  {"name": "Flares", "size": 2},
+                  {"name": "Hand Granades", "size": 5},
+                  {"name": "Bludgeoning", "size": 13},
+                  {"name": "Fireworks", "size": 16}
+              ]
+          },
+          {
+              "name": "Self Defense",
+              "children": [
+                  {"name": "Pepper Spray", "size": 23},
+                  {"name": "Martial Arts", "size": 72},
+                  {"name": "Shocking Device", "size": 19}
+              ]
+          },
+          {
+              "name": "Chemical",
+              "children": [
+                  {"name": "Fuel", "size": 1},
+                  {"name": "Paint", "size": 4}
+              ]
+          }
+      ]  
+      },    
+  
+      {
+        "name": "Dallas",
+        "children": [
+         {
+          "name": "Dangerous",
+          "children": [
+              {"name": "Ammunition", "size": 107},
+              
+              {
+                  "name": "Firearms",
+                  "children":[
+                      {"name": "Firearm Parts", "size": 308},
+                      {"name": "Firearm Replicas", "size": 10}
+                  ]
+              },
+              {"name": "Explosive Device", "size": 0}
+          ]    
+          },
+      
+       
+        
+          {"name": "Cutting Items", "size": 32},
+          {"name": "Bio", "size": 0},
+          {
+              "name": "Interesting",
+              "children": [
+                  {"name": "Flares", "size": 2},
+                  {"name": "Hand Granades", "size": 5},
+                  {"name": "Bludgeoning", "size": 1},
+                  {"name": "Fireworks", "size": 1}
+              ]
+          },
+          {
+              "name": "Self Defense",
+              "children": [
+                  {"name": "Pepper Spray", "size": 1},
+                  {"name": "Martial Arts", "size": 20},
+                  {"name": "Shocking Device", "size": 81}
+              ]
+          },
+          {
+              "name": "Chemical",
+              "children": [
+                  {"name": "Fuel", "size": 1},
+                  {"name": "Paint", "size": 3}
+              ]
+          }
+      ]  
+      }   
+  
+       
+       
+    ]
+    }       
